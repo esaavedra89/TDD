@@ -1,0 +1,7 @@
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\TDDPractice.exe.config
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\TDDPractice.exe
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\TDDPractice.pdb
+F:\Proyectos\TDD\TDD\TDDPractice\obj\Debug\TDDPractice.csprojAssemblyReference.cache
+F:\Proyectos\TDD\TDD\TDDPractice\obj\Debug\TDDPractice.csproj.CoreCompileInputs.cache
+F:\Proyectos\TDD\TDD\TDDPractice\obj\Debug\TDDPractice.exe
+F:\Proyectos\TDD\TDD\TDDPractice\obj\Debug\TDDPractice.pdb
