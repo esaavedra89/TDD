@@ -5,3 +5,10 @@ F:\Proyectos\TDD\TDD\TDDPractice\obj\Debug\TDDPractice.csprojAssemblyReference.c
 F:\Proyectos\TDD\TDD\TDDPractice\obj\Debug\TDDPractice.csproj.CoreCompileInputs.cache
 F:\Proyectos\TDD\TDD\TDDPractice\obj\Debug\TDDPractice.exe
 F:\Proyectos\TDD\TDD\TDDPractice\obj\Debug\TDDPractice.pdb
+F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\bin\Debug\TDDPractice.exe.config
+F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\bin\Debug\TDDPractice.exe
+F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\bin\Debug\TDDPractice.pdb
+F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\obj\Debug\TDDPractice.csproj.AssemblyReference.cache
+F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\obj\Debug\TDDPractice.csproj.CoreCompileInputs.cache
+F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\obj\Debug\TDDPractice.exe
+F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\obj\Debug\TDDPractice.pdb
