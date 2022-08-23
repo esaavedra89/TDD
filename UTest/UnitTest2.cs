@@ -9,19 +9,19 @@ namespace UTest
     {
         //TestMethod
 
-        //[TestCase("Fizz", 3)]
-        //[TestCase("Fizz", 6)]
-        //[TestCase("Buzz", 5)]
-        //[TestCase("Buzz", 10)]
-        //[TestCase("FizzBuzz", 15)]
-        //[TestCase("FizzBuzz", 30)]
-        //[TestCase("", 7)]
-        [TestMethod]
-        //public void TestFizzBuzz(string expected, int number)
-        public void TestFizzBuzz()
+        [TestCase("Fizz", 3)]
+        [TestCase("Fizz", 6)]
+        [TestCase("Buzz", 5)]
+        [TestCase("Buzz", 10)]
+        [TestCase("FizzBuzz", 15)]
+        [TestCase("FizzBuzz", 30)]
+        [TestCase("", 7)]
+        //[TestMethod]
+        public void TestFizzBuzz(string expected, int number)
+        //public void TestFizzBuzz()
         {
-            //NUnit.Framework.Assert.AreEqual(expected, FizzBuzz(number));
-            Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual("Fizz", FizzBuzz(3));
+            NUnit.Framework.Assert.AreEqual(expected, FizzBuzz(number));
+            //Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual("Fizz", FizzBuzz(3));
         }
 
         private string FizzBuzz(int number)

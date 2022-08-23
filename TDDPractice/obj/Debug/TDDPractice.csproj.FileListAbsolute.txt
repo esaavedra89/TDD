@@ -12,3 +12,11 @@ F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\obj\Debug\TDDPractice.csp
 F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\obj\Debug\TDDPractice.csproj.CoreCompileInputs.cache
 F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\obj\Debug\TDDPractice.exe
 F:\ProyectosPractica\ProyectosEstudiar\TDD\TDDPractice\obj\Debug\TDDPractice.pdb
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\NUnit3.TestAdapter.dll
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\NUnit3.TestAdapter.pdb
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\nunit.engine.dll
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\nunit.engine.api.dll
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\nunit.engine.core.dll
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\testcentric.engine.metadata.dll
+F:\Proyectos\TDD\TDD\TDDPractice\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Proyectos\TDD\TDD\TDDPractice\obj\Debug\TDDPractice.csproj.CopyComplete
