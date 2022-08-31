@@ -59,11 +59,15 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TicTacToeFolder\Game.cs" />
+    <Compile Include="TicTacToeFolder\State.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnitTest2.cs" />
     <Compile Include="UnitTest3.cs" />
+    <Compile Include="TicTacToe.cs" />
     <Compile Include="UpdateableSpinTests.cs" />
+    <Compile Include="TicTacToeFolder\Winner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
